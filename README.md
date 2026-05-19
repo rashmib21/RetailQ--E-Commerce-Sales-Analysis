@@ -1,4 +1,3 @@
-# RetailQ--E-Commerce-Sales-Analysis
 
 
 # RetailIQ — E-Commerce Sales Analysis 🛒📊
